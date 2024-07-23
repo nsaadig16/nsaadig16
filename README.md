@@ -4,8 +4,7 @@
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimsg16&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimsg16&theme=default&exclude=exclude)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimsg16&theme=github)
 <!--
 **naimsg16/naimsg16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
