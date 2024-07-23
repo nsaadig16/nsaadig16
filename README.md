@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=naimsg16)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **naimsg16/naimsg16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
