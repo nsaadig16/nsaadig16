@@ -1,12 +1,11 @@
 # Hi, I'm Naïm! 👋
----
 ## 👓 About me
 _(in progress...)_
 
 ## 🏆 My Stats
----
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=naimsg16)](https://github.com/ryo-ma/github-profile-trophy)
----
+
 <div align="center">
   
 [![](https://raw.githubusercontent.com/naimsg16/naimsg16/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
