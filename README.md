@@ -51,4 +51,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</p>          
+</p>
+
+<div align="center">  
+<img src="https://64.media.tumblr.com/9297069f27cbfda182d07e38785d0cda/5c9f35d2f4bdf5b1-b2/s400x600/4284dffc16c86f96d7e8d57e81f6cad5de886c52.gif" alt="OBJECTION!"></img>
+</div>
