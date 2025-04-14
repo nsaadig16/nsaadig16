@@ -1,12 +1,21 @@
-# Hi, I'm Naïm! 👋
+<div align="center">
+<img width="35" src="https://gremkin.carrd.co/assets/images/image01.gif?v56027378158651" alt="take your time"></img>
+
+<h1>Hi, I'm Naïm</h1>
+</div>
+
+
 ## 👓 About me
+<img width="225" align="right" src="https://64.media.tumblr.com/9297069f27cbfda182d07e38785d0cda/5c9f35d2f4bdf5b1-b2/s400x600/4284dffc16c86f96d7e8d57e81f6cad5de886c52.gif" alt="OBJECTION!"></img>
 - 🧑‍🎓 I'm an undergrad student at Universitat de Lleida
 - 🧠 I'm very passionate about software development
-- 💻 Right now trying to learn **Next.js**, **FastAPI** and **Django**
+- 💻 Right now learning **Next.js**, **FastAPI** and **Django**
 - 📧 You can reach me at **nsaadig16@gmail.com**
 
 
-## 🏆 My Stats
+
+
+## 🏆 My stats
 
 <div align="center">
 
@@ -54,5 +63,8 @@
 </p>
 
 <div align="center">  
-<img src="https://64.media.tumblr.com/9297069f27cbfda182d07e38785d0cda/5c9f35d2f4bdf5b1-b2/s400x600/4284dffc16c86f96d7e8d57e81f6cad5de886c52.gif" alt="OBJECTION!"></img>
+</div>
+
+<div align="center">
+<img width="35" src="https://gremkin.carrd.co/assets/images/image01.gif?v56027378158651" alt="take your time"></img>
 </div>
