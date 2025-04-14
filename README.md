@@ -1,7 +1,7 @@
 <div align="center">
 <img width="35" src="https://gremkin.carrd.co/assets/images/image01.gif?v56027378158651" alt="take your time"></img>
 
-<h1>Hi, I'm Naïm</h1>
+<h1>Hi, I'm Naïm!</h1>
 </div>
 
 
@@ -63,8 +63,4 @@
 </p>
 
 <div align="center">  
-</div>
-
-<div align="center">
-<img width="35" src="https://gremkin.carrd.co/assets/images/image01.gif?v56027378158651" alt="take your time"></img>
 </div>
