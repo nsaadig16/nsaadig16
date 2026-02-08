@@ -17,9 +17,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nsaadig16)](https://github.com/ryo-ma/github-profile-trophy)
   
-[![Naïm's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsaadig16)](https://github.com/anuraghazra/github-readme-stats)<p></p>
 [![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -54,4 +52,5 @@
 
 <div align="center">  
 </div>
+
 
