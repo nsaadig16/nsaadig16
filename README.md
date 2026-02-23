@@ -5,26 +5,22 @@
 </div>
 
 
-### 👓 About me
+## 👓 About me
 <img width="225" align="right" src="https://64.media.tumblr.com/9297069f27cbfda182d07e38785d0cda/5c9f35d2f4bdf5b1-b2/s400x600/4284dffc16c86f96d7e8d57e81f6cad5de886c52.gif" alt="OBJECTION!"></img>
 - 🧑‍🎓 I'm an undergrad student at Universitat de Lleida
 - 🧠 I'm very passionate about technologies, specially data science.
-- 💻 Right now learning **pandas**, **numpy** and **SQL**.
+- 💻 Right now learning **pandas** and **SQL**.
 - 📧 You can reach me at **[nsaadig16@gmail.com](mailto:nsaadig16@gmail.com)**
 <p></p>
 
-### 🏆 My stats
-
-<div align="center">
-
+## 🏆 My stats
   
 [![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-</div>
-<p></p>
 
-### 🔎 | Explored Languages, Technologies and Tools
+## 🔎 | Explored Languages, Technologies and Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
@@ -52,5 +48,6 @@
 
 <div align="center">  
 </div>
+
 
 
