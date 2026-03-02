@@ -1,12 +1,14 @@
 <div align="center">
 <img width="35" src="https://gremkin.carrd.co/assets/images/image01.gif?v56027378158651" alt="take your time"></img>
 
-<h1>Hi, I'm Naïm!</h1>
+## Hi, I'm Naïm!
+
 </div>
 
 
 ## 👓 About me
 <p></p>
+
 - 🧑‍🎓 I'm an undergrad student at Universitat de Lleida
 - 🧠 I'm very passionate about technologies, specially data science.
 - 💻 Right now learning **pandas** and **SQL**.
@@ -54,6 +56,7 @@
 
 <div align="center">  
 </div>
+
 
 
 
