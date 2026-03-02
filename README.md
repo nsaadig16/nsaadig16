@@ -6,6 +6,7 @@
 
 
 ## 👓 About me
+<p></p>
 <img width="225" align="right" src="https://64.media.tumblr.com/9297069f27cbfda182d07e38785d0cda/5c9f35d2f4bdf5b1-b2/s400x600/4284dffc16c86f96d7e8d57e81f6cad5de886c52.gif" alt="OBJECTION!"></img>
 - 🧑‍🎓 I'm an undergrad student at Universitat de Lleida
 - 🧠 I'm very passionate about technologies, specially data science.
@@ -54,6 +55,7 @@
 
 <div align="center">  
 </div>
+
 
 
 
