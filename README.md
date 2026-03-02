@@ -12,12 +12,18 @@
 - 💻 Right now learning **pandas** and **SQL**.
 - 📧 You can reach me at **[nsaadig16@gmail.com](mailto:nsaadig16@gmail.com)**
 <p></p>
+<p></p>
 
 ## 🏆 My stats
   
-[![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
+  
 [![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<img src="https://streak-stats.demolab.com?user=nsaadig16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 ## 🔎 | Explored Languages, Technologies and Tools
@@ -48,6 +54,7 @@
 
 <div align="center">  
 </div>
+
 
 
 
