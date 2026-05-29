@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/nsaadig16/nsaadig16/main/profile-summary-card-output/gruvbox/4-productive-time.svg)
-```
-
-    
